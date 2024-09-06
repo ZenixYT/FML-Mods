@@ -3,5 +3,10 @@
         "name": "Cobalt (with Delayed Injection)",
         "desc": "Cobalt (created by Milxnor) combined with injection at lobby, allowing for mods using MinHook.",
         "link": "https://raw.githubusercontent.com/ZenixYT/FML-Mods/main/dll/CobaltDelayedInjection.dll"
+    },
+    {
+        "name": "Reboot",
+        "desc": "Game server for Chapter 1 Season 3 - Chapter 3 Season 1",
+        "link": "https://raw.githubusercontent.com/ZenixYT/FML-Mods/main/dll/Reboot.dll"
     }
 ]
