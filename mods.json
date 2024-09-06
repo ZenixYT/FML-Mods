@@ -8,5 +8,10 @@
         "name": "Reboot",
         "desc": "Game server for Chapter 1 Season 3 - Chapter 3 Season 1\nCreated by Milxnor",
         "link": "https://raw.githubusercontent.com/ZenixYT/FML-Mods/main/dll/Reboot.delayed.dll"
+    },
+    {
+        "name": "UniversalFNConsole",
+        "desc": "Enables UE4 console on versions 2.5 - 15.50\nCreated by Samicc\nFortConsole created by Makks",
+        "link": "https://raw.githubusercontent.com/ZenixYT/FML-Mods/main/dll/UniversalFNConsole.dll"
     }
 ]
